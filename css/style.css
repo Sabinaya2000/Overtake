@@ -1,0 +1,76 @@
+.navbar-expand-lg .navbar-nav .nav-link {
+  text-transform: uppercase;
+  color: #055999;
+  font-size: 15px;
+  padding: 10px 14px;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+  background: #055999;
+  color: #fff;
+}
+
+.navbar-nav .nav-link.active {
+  background: #055999;
+  color: #fff;
+  gap: 5px;
+}
+
+.carousel-caption {
+  bottom: 90px;
+}
+
+.text-start {
+  margin-left: -100px;
+}
+
+.box {
+  background: #efefef;
+}
+.box:hover {
+  background: #fff;
+  border: 1px solid #055999;
+}
+
+.bi bi-gear {
+  height: 200px;
+}
+
+.team {
+  background: #055999;
+}
+
+.image {
+  margin: 70px;
+  min-width: 50%;
+}
+
+.writing {
+  color: #fff;
+}
+
+footer {
+  background: #000;
+  color: #949494;
+  font-weight: 700;
+  line-height: 1.6em;
+}
+
+.heading {
+  color: #fff;
+}
+
+.ser {
+  background: #055999;
+  color: #fff;
+  margin-top: 20px;
+  font-size: 34px;
+  font-weight: 700;
+}
+
+.ram {
+  border: 1px solid #055999;
+}
+
+.line {
+  margin-top: -60px;
+}/*# sourceMappingURL=style.css.map */
